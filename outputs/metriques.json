@@ -1,0 +1,16 @@
+{
+  "auroc_test": 0.9777,
+  "f1_test": 0.8333,
+  "seuil": 0.991,
+  "best_params": {
+    "learning_rate": 0.1,
+    "max_depth": 7,
+    "n_estimators": 300
+  },
+  "val_auroc": 0.9785,
+  "val_f1": 0.7975,
+  "false_positives": 3,
+  "false_negatives": 19,
+  "test_samples": 42722,
+  "fraud_samples_test": 74
+}
